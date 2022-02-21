@@ -1,0 +1,5 @@
+Inspirated by some projects. Thoose witch had a Lisense follows:
+
+Copyright (c) 2022 by SANJIB KUMAR DEY (https://codepen.io/sanjib104/pen/JjWrbYq)
+Copyright (c) 2022 by Mark Mead (https://codepen.io/markmead/pen/MqmOVB)
+
