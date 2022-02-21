@@ -1,0 +1,18 @@
+
+.container_img{
+    margin-top: 15rem;
+    width: auto;
+    height: 60vh;
+    padding: 0 35rem;
+}
+.iMe{
+    max-width: 50%;
+    max-height: 100%;
+    object-fit: contain;
+    transform: rotate(-5deg);
+}   
+.txtMe{
+    max-width: 50%;
+    max-height: 100%;
+    object-fit: contain;
+}
